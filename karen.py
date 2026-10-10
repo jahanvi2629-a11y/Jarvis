@@ -5,7 +5,7 @@ import pyaudio
 import json
 from vosk import Model, KaldiRecognizer
 
-model = Model(r"C:\Users\Jahan\OneDrive\Desktop\PROJECT ULTRON\vosk-model-small-en-us-0.15\vosk-model-small-en-us-0.15")
+model = Model(r"C:\Users\Jahan\OneDrive\Desktop\PROJECT K.A.R.E.N\vosk-model-small-en-us-0.15\vosk-model-small-en-us-0.15")
 recognizer = KaldiRecognizer(model, 16000)
 
 audio = pyaudio.PyAudio()
@@ -68,4 +68,4 @@ while True:
 
 
         if "wake up" in text:
-            print("Jarvis activated")   
+            print("K.A.R.E.N. activated")   
