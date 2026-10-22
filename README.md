@@ -8,10 +8,10 @@ K.A.R.E.N. is designed to recognize voice commands and execute desktop actions, 
 
 ## ✨ Current Features
 
-* 🎙️ Voice recognition using Python and Vosk
-* 💻 Voice-controlled desktop application launching
-* 🖥️ Integration with local desktop applications
-* 🔧 Ongoing development and feature improvements
+* Voice recognition using Python and Vosk
+* Voice-controlled desktop application launching
+* Integration with local desktop applications
+* Ongoing development and feature improvements
 
 ## 🛠️ Technologies
 
