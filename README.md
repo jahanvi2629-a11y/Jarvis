@@ -1,4 +1,4 @@
-# 🕷️ K.A.R.E.N.
+# K.A.R.E.N.
 
 ### Kernel for Automated Responses, Execution & Navigation
 
